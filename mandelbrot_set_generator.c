@@ -32,7 +32,7 @@ int setIteration(Complex c) {
 		}
 		
 		// implementing z = z^2 + c
-		double z_real_new = z_real_squared - z_imag_square + c.real;
+		double z_real_new = z_real_square - z_imag_square + c.real;
 		double z_imag_new = 2.0 * z.real * z.imag + c.imag;
 		z.real = z_real_new;
 		z.imag = z_imag_new;
