@@ -60,4 +60,4 @@ The program will generate a PPM image file named `mandelbrot.ppm` representing t
 
 Here is an example of the Mandelbrot set generated with the default parameters:
 
-![Mandelbrot Set](mandelbrot.png)
+![Mandelbrot Set](mandelbrot2.png)
