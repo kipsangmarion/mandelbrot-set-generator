@@ -1,6 +1,6 @@
 # Mandelbrot Set Generator
 
-![Mandelbrot Set](mandelbrot.png)
+![Mandelbrot Set](mandelbrot1.png)
 
 ## Description
 
