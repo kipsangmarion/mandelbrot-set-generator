@@ -31,7 +31,7 @@ To run this program, you need a C compiler installed on your system.
 Compile the C program using your preferred C compiler. For example, with GCC, use the following command:
 
 ```bash
-gcc -o mandelbrot mandelbrot.c -lm
+gcc -o mandelbrot_set_generator mandelbrot_set_generator.c -lm
 ```
 
 ### Running the Program
@@ -39,12 +39,12 @@ gcc -o mandelbrot mandelbrot.c -lm
 After compilation, execute the generated binary:
 
 ```bash
-./mandelbrot
+./mandelbrot_set_generator
 ```
 
 ## Configuration
 
-You can modify the following parameters in the `mandelbrot.c` file to customize the Mandelbrot set visualization:
+You can modify the following parameters in the `mandelbrot_set_generator.c` file to customize the Mandelbrot set visualization:
 
 - `WIDTH`: Image width in pixels.
 - `HEIGHT`: Image height in pixels.
